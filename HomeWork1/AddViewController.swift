@@ -15,8 +15,7 @@ class AddViewController: UIViewController {
     @IBOutlet weak var genderTextField: UITextField!
     @IBOutlet weak var facultyTextField: UITextField!
     @IBOutlet weak var departmentTextField: UITextField!
-
-    
+  
     var delegate: AddViewControllerToViewControllerProtocol?//delege için protocol tipinde bir nesne oluşturulur.
     
     override func viewDidLoad() {
@@ -33,6 +32,8 @@ class AddViewController: UIViewController {
             let department = departmentTextField.text {
             
             delegate?.sendStudentInfo(name: name, lastName: lastName, eMail: eMail, gender: gender, faculty: faculty, department: department)
+          
+          navigationController?.popToRootViewController(animated: true)
             
         }
         
