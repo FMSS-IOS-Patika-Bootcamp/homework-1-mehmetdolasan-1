@@ -13,5 +13,5 @@ Data transfer from A ViewController to B ViewController
 ## Tools
 - Swift
     - Delegate Pattern
-- Design
-    - UIKit
+- UIKit
+
