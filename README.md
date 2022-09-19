@@ -1,18 +1,13 @@
 # FMSS-Homework-1
 Homework-1
+##Description
 
-İki tane sayfa olucak
-
-İlk sayfadan ikinci sayfaya gidilicek
-
-İkinci sayfada textfieldlar olucak buraya girilen verileri ilk sayfada gösterilecek
-
-İster delegeta ister notification ister clouser
+Data transfer from A ViewVontroller to B ViewController
 
 ---
 [<img src="images/1.png" width="250"/>]()
 [<img src="images/2.png" width="250"/>]()
-[<video src="appVideo/App.mp4" height="380" style="margin-bottom: 40px; margin-left: 50px"/>]()
+https://user-images.githubusercontent.com/15347939/191015066-7a538ce3-ee01-456e-90b8-ffb55054ef7a.mp4
 
 ---
 
