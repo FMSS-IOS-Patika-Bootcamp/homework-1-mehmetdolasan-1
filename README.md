@@ -10,8 +10,9 @@ Homework-1
 İster delegeta ister notification ister clouser
 
 ---
-[<img src="images/1.png" width="250" style="margin-left: 200px"/>]()
+[<img src="images/1.png" width="250"/>]()
 [<img src="images/2.png" width="250"/>]()
+[<video src="appVideo/App.mp4" height="380" style="margin-bottom: 40px; margin-left: 50px"/>]()
 
 ---
 
