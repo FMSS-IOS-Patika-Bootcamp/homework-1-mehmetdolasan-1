@@ -12,8 +12,6 @@ Homework-1
 ---
 [<img src="images/1.png" width="250"/>]()
 [<img src="images/2.png" width="250"/>]()
-[<video src="appVideo/App.mp4" height="380" style="margin-bottom: 40px; margin-left: 50px"/>]()
-
 ---
 
 ## Tools
