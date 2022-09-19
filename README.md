@@ -2,7 +2,7 @@
 
 ## Description
 
-Data transfer from A ViewVontroller to B ViewController
+Data transfer from A ViewController to B ViewController
 
 ---
 [<img src="images/1.png" width="250"/>]()
