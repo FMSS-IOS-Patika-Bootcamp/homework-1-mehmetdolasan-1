@@ -6,9 +6,7 @@ Data transfer from A ViewController to B ViewController
 
 ---
 
-<div style="display: inline-block">
-    <img src="gif/App.gif" width="180px" height="350px"/> <img src="images/1.png" width="180px" height="350px"/> <img src="images/2.png" width="180px" height="350px"/>
-</div>
+<img style="margin-bottom: 35px" src="gif/App.gif" width="170px"></img><img style="margin-top: 10px; margin-left: 45px" src="images/1.png" width="230px"></img><img style="margin-top: 10px" src="images/2.png" width="230px"></img>
 
 ---
 
