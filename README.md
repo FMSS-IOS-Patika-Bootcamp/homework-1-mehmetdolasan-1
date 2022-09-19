@@ -2,7 +2,7 @@
 
 ## Description
 
-Data transfer from A ViewController to B ViewController
+Data transfer from A to B ViewController
 
 ---
 <img style="margin-bottom: 35px" src="gif/App.gif" width="170px" height="380px"></img>
